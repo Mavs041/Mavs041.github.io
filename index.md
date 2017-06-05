@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Young's Data world
 
-You can use the [editor on GitHub](https://github.com/Mavs041/Mavs041.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+开一个blog，记录下自己学习数据分析的点点滴滴，作为一个商科背景的菜鸟，希望能用菜鸟的眼光，分享一些不一样的难点
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Young Yu，网名熊老师，旅行家，就职于一家上市公司的运营岗位
 
 ```markdown
 Syntax highlighted code block
